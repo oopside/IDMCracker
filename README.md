@@ -1,4 +1,0 @@
-IDMCracker
-==========
-
-İnternet Download Manager
